@@ -1,5 +1,3 @@
-# nyc_restaurant_inspections
-
 # CoinGecko API Project
 
 Project utilizing the [CoinGecko API](https://www.coingecko.com/en/api)
