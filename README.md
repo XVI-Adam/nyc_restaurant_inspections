@@ -1,11 +1,12 @@
-# CoinGecko API Project
+# Analysis of NYC Restaurant Inspections
 
-Project utilizing the [CoinGecko API](https://www.coingecko.com/en/api)
+Data from [NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j/about_data).
 
-The source code is in the [coin_gecko_project1_start.py](coin_gecko_project1_start.py) file.
+Note that the data is updated regularly - this analysis pertains only to January 2025 data.
 
-<img src="coin_gecko_project.jpg">
+Analysis can be found in the [ibis.ipynb](ibis.ipynb) Jupyter Notebook.
 
-Built With:
+Tools: 
 [<img height="80" width="80" src="https://cdn.simpleicons.org/python" alt="python logo"/>](https://python.org)
-[<img height="80" width="80" src="https://cdn.simpleicons.org/taipy" alt="taipy logo"/>](https://taipy.io/)
+
+[<img height="80" width="80" src="ibis.jpg" alt="ibis logo" />](https://ibis-project.org/)
